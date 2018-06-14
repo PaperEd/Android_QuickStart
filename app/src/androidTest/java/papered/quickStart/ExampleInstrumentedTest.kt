@@ -1,4 +1,4 @@
-package com.github.papered.android_quickstart
+package papered.quickStart
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

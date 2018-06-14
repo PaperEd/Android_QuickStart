@@ -1,4 +1,4 @@
-package com.github.papered.android_quickstart
+package papered.quickStart
 
 import org.junit.Test
 

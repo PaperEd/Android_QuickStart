@@ -1,7 +1,8 @@
-package com.github.papered.android_quickstart
+package papered.quickStart
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.github.papered.android_quickstart.R
 
 class SplashActivity : AppCompatActivity() {
 
