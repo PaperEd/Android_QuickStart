@@ -1,4 +1,4 @@
-package papered.quickStart
+package PaperEd.quickStart
 
 import org.junit.Test
 

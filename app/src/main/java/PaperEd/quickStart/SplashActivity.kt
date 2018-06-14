@@ -1,4 +1,4 @@
-package papered.quickStart
+package PaperEd.quickStart
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
